@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+    background-color: black;
+}
+
+.container {
+    padding-top: 5rem;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+button {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    color: whitesmoke;
+    border-color: silver;
+}
